@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header{ 
+    text-align: center;
+    background-color: rgb(139, 212, 212);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.nav-ul li {
+    padding-left: 10px;
+    font-size:x-large;
+}
+
+.main {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.div1 {
+    width: 700px;
+    margin: 40px auto 0; 
+    border: 2px solid #000;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.div2 {
+    width: 700px;
+    margin: 40px auto 0; 
+    background-color: rgb(139, 212, 212);
+    border: 2px solid rgb(139, 212, 212);
+    border-radius: 30px;
+    text-align: center;
+}
+
+.div3 {
+    width: 700px;
+    margin: 40px auto 0; 
+    border: 2px solid #000;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.div4 {
+    width: 700px;
+    margin: 40px auto 0; 
+    background-color: rgb(139, 212, 212);
+    border: 2px solid rgb(139, 212, 212);
+    border-radius: 30px;
+    text-align: center;
+}
+
+.div5 {
+    width: 700px;
+    margin: 40px auto 0; 
+    border: 2px solid #000;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.div6 {
+    width: 700px;
+    margin: 40px auto 0; 
+    background-color: rgb(139, 212, 212);
+    border: 2px solid rgb(139, 212, 212);
+    border-radius: 30px;
+    text-align: center;
+}
+
+.div7 {
+    width: 700px;
+    margin: 40px auto 0; 
+    border: 2px solid #000;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.footer {
+    margin-top: 20px;
+    font-size:x-large;
+    text-align: center;
+    background-color: rgb(139, 212, 212);
+}
+
+.rs-logo {
+    width: 60px;
+}
+
+.f-ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.f-ul li {
+    padding-left: 20px;
+    font-size:x-large;
+}
