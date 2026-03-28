@@ -21,3 +21,8 @@ console.log(b)
 ```
 ## Work experience
 * multiple courses
+## Aducation
+* Course stepik "Погружение в JavaScript: для начинающих"
+* Videos on YouTube
+## Language
+* English average
