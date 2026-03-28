@@ -8,3 +8,16 @@
 * HTML
 * CSS
 * JS
+## Code example
+```
+let a = prompt()
+let aa = a.toLowerCase()
+let b = ''
+for (i = aa.length - 1; i >= 0; i--) {
+    b = b + aa[i] 
+}
+console.log(b)
+
+```
+## Work experience
+* multiple courses
